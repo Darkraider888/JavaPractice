@@ -1,0 +1,10 @@
+// This is the class named Main (file name should be Main.java)
+public class Main {
+
+// This is the main method — program starts running from here
+    public static void main(String[] args) {
+
+// This prints text to the screen
+        System.out.println("Hello Java");
+} 
+}
